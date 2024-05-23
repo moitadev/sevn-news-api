@@ -15,6 +15,7 @@
     "typescript": "^5.4.5"
   },
   "dependencies": {
+    "@biomejs/biome": "^1.7.3",
     "@types/express": "^4.17.21",
     "dotenv": "^16.4.5",
     "express": "^4.19.2"
