@@ -1,0 +1,13 @@
+#dependencies
+/node_modules
+/dist/
+
+# debug
+npm-debug.log
+
+# local env files
+.env
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
