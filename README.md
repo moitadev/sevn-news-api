@@ -17,10 +17,10 @@ sevn-news-api/
 │
 ├── src/
 │ ├── data/
-│ │ └── articles.js
+│ │ └── articles.ts
 │ ├── routes/
-│ │ ├── home.js
-│ │ └── news.js
+│ │ ├── home.ts
+│ │ └── news.ts
 │ ├── http/
 │ │ ├── app.ts
 │ │ └── server.ts
